@@ -1,0 +1,94 @@
+(function() {
+
+    var __hs_cta_json = {"css":"a#cta_button_556697_6ee2bd50-f5b4-4257-9466-73e5160172ce {\n  cursor:pointer; \n}\na#cta_button_556697_6ee2bd50-f5b4-4257-9466-73e5160172ce:hover {\n}\na#cta_button_556697_6ee2bd50-f5b4-4257-9466-73e5160172ce:active, #cta_button_556697_6ee2bd50-f5b4-4257-9466-73e5160172ce:active:hover {\n}\n\n@font-face {\n  font-family: \"Chronica Pro\";\n  src: url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-ultralight.eot');\n  src: url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-ultralight.eot?#iefix') format(\"embedded-opentype\"), url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-ultralight.woff2') format(\"woff2\"), url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-ultralight.woff') format(\"woff\"), url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-ultralight.ttf') format(\"truetype\");\n  font-weight: 100;\n  font-style: normal; }\n@font-face {\n  font-family: \"Chronica Pro\";\n  src: url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-ultralight-it.eot');\n  src: url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-ultralight-it.eot?#iefix') format(\"embedded-opentype\"), url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-ultralight-it.woff2') format(\"woff2\"), url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-ultralight-it.woff') format(\"woff\"), url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-ultralight-it.ttf') format(\"truetype\");\n  font-weight: 100;\n  font-style: italic; }\n@font-face {\n  font-family: \"Chronica Pro\";\n  src: url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-light.eot');\n  src: url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-light.eot?#iefix') format(\"embedded-opentype\"), url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-light.woff2') format(\"woff2\"), url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-light.woff') format(\"woff\"), url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-light.ttf') format(\"truetype\");\n  font-weight: 200;\n  font-style: normal; }\n@font-face {\n  font-family: \"Chronica Pro\";\n  src: url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-light-it.eot');\n  src: url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-light-it.eot?#iefix') format(\"embedded-opentype\"), url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-light-it.woff2') format(\"woff2\"), url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-light-it.woff') format(\"woff\"), url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-light-it.ttf') format(\"truetype\");\n  font-weight: 200;\n  font-style: italic; }\n@font-face {\n  font-family: \"Chronica Pro\";\n  src: url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-book.eot');\n  src: url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-book.eot?#iefix') format(\"embedded-opentype\"), url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-book.woff2') format(\"woff2\"), url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-book.woff') format(\"woff\"), url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-book.ttf') format(\"truetype\");\n  font-weight: 300;\n  font-style: normal; }\n@font-face {\n  font-family: \"Chronica Pro\";\n  src: url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicaprobook-it.eot');\n  src: url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicaprobook-it.eot?#iefix') format(\"embedded-opentype\"), url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicaprobook-it.woff2') format(\"woff2\"), url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicaprobook-it.woff') format(\"woff\"), url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicaprobook-it.ttf') format(\"truetype\");\n  font-weight: 300;\n  font-style: italic; }\n@font-face {\n  font-family: \"Chronica Pro\";\n  src: url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-regular.eot');\n  src: url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-regular.eot?#iefix') format(\"embedded-opentype\"), url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-regular.woff2') format(\"woff2\"), url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-regular.woff') format(\"woff\"), url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-regular.ttf') format(\"truetype\");\n  font-weight: 400;\n  font-style: normal; }\n@font-face {\n  font-family: \"Chronica Pro\";\n  src: url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-regular-it.eot');\n  src: url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-regular-it.eot?#iefix') format(\"embedded-opentype\"), url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-regular-it.woff2') format(\"woff2\"), url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-regular-it.woff') format(\"woff\"), url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-regular-it.ttf') format(\"truetype\");\n  font-weight: 400;\n  font-style: italic; }\n@font-face {\n  font-family: \"Chronica Pro\";\n  src: url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-medium.eot');\n  src: url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-medium.eot?#iefix') format(\"embedded-opentype\"), url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-medium.woff2') format(\"woff2\"), url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-medium.woff') format(\"woff\"), url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-medium.ttf') format(\"truetype\");\n  font-weight: 600;\n  font-style: normal; }\n@font-face {\n  font-family: \"Chronica Pro\";\n  src: url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-medium-it.eot');\n  src: url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-medium-it.eot?#iefix') format(\"embedded-opentype\"), url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-medium-it.woff2') format(\"woff2\"), url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-medium-it.woff') format(\"woff\"), url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-medium-it.ttf') format(\"truetype\");\n  font-weight: 600;\n  font-style: italic; }\n@font-face {\n  font-family: \"Chronica Pro\";\n  src: url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-bold.eot');\n  src: url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-bold.eot?#iefix') format(\"embedded-opentype\"), url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-bold.woff2') format(\"woff2\"), url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-bold.woff') format(\"woff\"), url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-bold.ttf') format(\"truetype\");\n  font-weight: 700;\n  font-style: normal; }\n@font-face {\n  font-family: \"Chronica Pro\";\n  src: url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-bold-it.eot');\n  src: url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-bold-it.eot?#iefix') format(\"embedded-opentype\"), url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-bold-it.woff2') format(\"woff2\"), url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-bold-it.woff') format(\"woff\"), url('https://cdn2.hubspot.net/hubfs/556697/Landings/SAMPLE/fonts/chronicapro-bold-it.ttf') format(\"truetype\");\n  font-weight: 700;\n  font-style: italic; }\n\n.btn {\ndisplay: inline-block;\nmargin-bottom: 0;\nfont-weight: 600;\ntext-align: center;\nvertical-align: middle;\n-ms-touch-action: manipulation;\ntouch-action: manipulation;\ncursor: pointer;\nbackground-image: none;\nborder: 1px solid transparent;\nwhite-space: nowrap;\npadding: 9px 12px;\nfont-size: 14px;\nline-height: 1.57142857;\nborder-radius: 4px;\n-webkit-user-select: none;\n-moz-user-select: none;\n-ms-user-select: none;\nuser-select: none;\n\nfont-family: \"Chronica Pro\", Helvetica, Arial, sans-serif;\ntext-decoration: none\n}\n\n.btn {\n    font-size: 14px;\n    font-weight: 400;\n    transition: 0.1s ease-out;\n    transition-property: background-color, border-color, color;\n}\n\n.btn-transparent-green-border {\n    color: #5db34b;\n    background-color: transparent;\n    border-color: #5db34b;\n}","image_html":"<a id=\"cta_button_556697_6ee2bd50-f5b4-4257-9466-73e5160172ce\" class=\"cta_button\" href=\"//cta-service-cms2.hubspot.com/ctas/v2/public/cs/c/?cta_guid=6ee2bd50-f5b4-4257-9466-73e5160172ce&placement_guid=093c8281-90c1-41ef-bdbe-4e6abde38162&portal_id=556697&redirect_url=APefjpGcOl5zczrLuqHO1mVwxT02AQT6yHid3x9NRlUaHVd0oUA9jgagQSKIstjGYdgWlcBTeuVSWnB8gmxHw6CAX4smepyc3VenPmKWyyj778ukXU5WLZF_t0wnHH7wmSbEBPdsGwH2gtvYuOFNxidtWn3GwP60OXYYNchjG9BdU2pFy2b9HXkMAfawBjvtpwnHLj_ImZwfyEIiL3sFxoAhTNWE6Ro7S_vxtfYYZIqiAm9B2_ZvbtZEnnu7uNULhrJMR-k2YsTTuCkO5Q4JygkpK3md83CC_Q&hsutk=3c3e5effc7f9eb9c201fdcd18311342c&canon=https%3A%2F%2Fkontakt.io%2Fcustomers%2F&utm_referrer=https%3A%2F%2Fkontakt.io%2F\"  cta_dest_link=\"https://kontakt.io/#js-base-form-step-1\"><img id=\"hs-cta-img-093c8281-90c1-41ef-bdbe-4e6abde38162\" class=\"hs-cta-img btn cta btn-transparent-green-border\" style=\"border-width: 0px; /*hs-extra-styles*/\" mce_noresize=\"1\" alt=\"Contact Sales\" src=\"https://cdn2.hubspot.net/hubshot/16/05/04/52c4b61a-d9f5-4612-944d-6bac8872b2cb.png\" /></a>","is_image":false,"placement_element_class":"hs-cta-093c8281-90c1-41ef-bdbe-4e6abde38162","raw_html":"<a id=\"cta_button_556697_6ee2bd50-f5b4-4257-9466-73e5160172ce\" class=\"cta_button btn cta btn-transparent-green-border\" href=\"//cta-service-cms2.hubspot.com/ctas/v2/public/cs/c/?cta_guid=6ee2bd50-f5b4-4257-9466-73e5160172ce&placement_guid=093c8281-90c1-41ef-bdbe-4e6abde38162&portal_id=556697&redirect_url=APefjpGcOl5zczrLuqHO1mVwxT02AQT6yHid3x9NRlUaHVd0oUA9jgagQSKIstjGYdgWlcBTeuVSWnB8gmxHw6CAX4smepyc3VenPmKWyyj778ukXU5WLZF_t0wnHH7wmSbEBPdsGwH2gtvYuOFNxidtWn3GwP60OXYYNchjG9BdU2pFy2b9HXkMAfawBjvtpwnHLj_ImZwfyEIiL3sFxoAhTNWE6Ro7S_vxtfYYZIqiAm9B2_ZvbtZEnnu7uNULhrJMR-k2YsTTuCkO5Q4JygkpK3md83CC_Q&hsutk=3c3e5effc7f9eb9c201fdcd18311342c&canon=https%3A%2F%2Fkontakt.io%2Fcustomers%2F&utm_referrer=https%3A%2F%2Fkontakt.io%2F\"  style=\"/*hs-extra-styles*/\" cta_dest_link=\"https://kontakt.io/#js-base-form-step-1\" title=\"Contact Sales\">Contact Sales</a>"};
+    var __hs_cta = {};
+
+    __hs_cta.drop = function() {
+        var is_legacy = document.getElementById('hs-cta-ie-element') && true || false,
+            html = __hs_cta_json.image_html,
+            tags = __hs_cta.getTags(),
+            is_image = __hs_cta_json.is_image,
+            parent, _style;
+
+        if (!is_legacy && !is_image) {
+            parent = (document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]);
+
+            _style = document.createElement('style');
+            parent.insertBefore(_style, parent.childNodes[0]);
+            try {
+                default_css = ".hs-cta-wrapper p, .hs-cta-wrapper div { margin: 0; padding: 0; }";
+                cta_css = default_css + " " + __hs_cta_json.css;
+                // http://blog.coderlab.us/2005/09/22/using-the-innertext-property-with-firefox/
+                _style[document.all ? 'innerText' : 'textContent'] = cta_css;
+            } catch (e) {
+                // addressing an ie9 issue
+                _style.styleSheet.cssText = cta_css;
+            }
+
+            html = __hs_cta_json.raw_html;
+        }
+
+        for (var i = 0; i < tags.length; ++i) {
+
+            var tag = tags[i];
+            var images = tag.getElementsByTagName('img');
+            var cssText = "";
+            var align = "";
+            for (var j = 0; j < images.length; j++) {
+                align = images[j].align;
+                images[j].style.border = '';
+                images[j].style.display = '';
+                cssText = images[j].style.cssText;
+            }
+
+            if (align == "right") {
+                tag.style.display = "block";
+                tag.style.textAlign = "right";
+            } else if (align == "middle") {
+                tag.style.display = "block";
+                tag.style.textAlign = "center";
+            }
+
+            tag.innerHTML = html.replace('/*hs-extra-styles*/', cssText);
+            tag.style.visibility = 'visible';
+            tag.setAttribute('data-hs-drop', 'true');
+            window.hbspt && hbspt.cta && hbspt.cta.afterLoad && hbspt.cta.afterLoad('093c8281-90c1-41ef-bdbe-4e6abde38162');
+        }
+
+        return tags;
+    };
+
+    __hs_cta.getTags = function() {
+        var allTags, check, i, divTags, spanTags,
+            tags = [];
+            if (document.getElementsByClassName) {
+                allTags = document.getElementsByClassName(__hs_cta_json.placement_element_class);
+                check = function(ele) {
+                    return (ele.nodeName == 'DIV' || ele.nodeName == 'SPAN') && (!ele.getAttribute('data-hs-drop'));
+                };
+            } else {
+                allTags = [];
+                divTags = document.getElementsByTagName("div");
+                spanTags = document.getElementsByTagName("span");
+                for (i = 0; i < spanTags.length; i++) {
+                    allTags.push(spanTags[i]);
+                }
+                for (i = 0; i < divTags.length; i++) {
+                    allTags.push(divTags[i]);
+                }
+
+                check = function(ele) {
+                    return (ele.className.indexOf(__hs_cta_json.placement_element_class) > -1) && (!ele.getAttribute('data-hs-drop'));
+                };
+            }
+            for (i = 0; i < allTags.length; ++i) {
+                if (check(allTags[i])) {
+                    tags.push(allTags[i]);
+                }
+            }
+        return tags;
+    };
+
+    // need to do a slight timeout so IE has time to react
+    setTimeout(__hs_cta.drop, 10);
+}());
